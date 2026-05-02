@@ -1,6 +1,8 @@
 Hi there, I'm Yasin :)
 
-- How to reach me : [X](https://x.com/@YasinHamad_)  [Gamil](yasinhamadbusiness@gmail.com)
+- How to reach me :
+  - X : [@YasinHamad_](https://x.com/@YasinHamad_)
+  - Gmail : [yasinhamadbusiness@gmail.com](mailto:yasinhamadbusiness@gmail.com)
 
 <!--
 **YasinHamad/YasinHamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
